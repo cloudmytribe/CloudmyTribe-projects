@@ -18,7 +18,7 @@ Welcome to the CloudmyTribe Cloud Challenge projects! This initiative is designe
 ## General Guidelines 📓
 
 - **Stay Organized**: Keep your code and documentation well-organized. This will help you and others follow your progress.
-- **Ask for Help**: If you get stuck, don’t hesitate to ask for help. USe our Slack community and Google Classroom forums to connect with other participants.
+- **Ask for Help**: If you get stuck, don’t hesitate to ask for help. Use our Slack community and Google Classroom forums to connect with other participants.
 - **Share Your Progress**: Share your progress on social media with the hashtag #CloudmyTribeCloudChallenge(CCC). Inspire others and get feedback.
 - **Contribute**: We welcome contributions! Whether it's improving documentation, adding new features, or fixing bugs, your contributions are valuable.
 
